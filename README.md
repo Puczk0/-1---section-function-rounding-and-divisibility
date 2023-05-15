@@ -1,0 +1,1 @@
+# Zadanie1 - przedział, funkcja, zakrąglenia i podzielność
