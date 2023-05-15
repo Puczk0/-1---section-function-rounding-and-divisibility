@@ -1,1 +1,5 @@
-# Zadanie1 - przedział, funkcja, zakrąglenia i podzielność
+PL:
+Napisz program konsolowy, który dla wszystkich kolejnych liczb naturalnych x z przedziału <13;23> będzie obliczał wartość funkcji: f(x)=2x4/11. Obliczoną wartość funkcji zaokrąglij do najbliższej liczby całkowitej. Następnie sprawdź, czy ta liczba jest podzielna przez 11. Program dla każdej kolejnej wartości zmiennej x ma wyświetlać pełną informację w postaci komunikatów np. „Dla x równego … wartość funkcji wynosi … , a po zaokrągleniu wynosi ... i jest podzielna (niepodzielna) przez …”, itd. Wyświetl także informację podsumowującą, ile otrzymałeś liczb podzielnych przez 11, a ile liczb niepodzielnych przez 11
+
+ENG:
+Write a console program that for all consecutive integers x in the range <13;23> will calculate the value of the function: f(x)=2x4/11. Round the calculated value of the function to the nearest integer. Then check if this number is divisible by 11. The program for each subsequent value of variable x is to display full information in the form of messages, e.g. by…”, etc. Also display a summary of how many numbers you received divisible by 11 and how many numbers not divisible by 11
